@@ -1,0 +1,32 @@
+img.flashy{
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+p.flashy{
+  font-style: italic;
+  text-align: center;
+}
+
+strong.flashy{
+  font-style: normal;
+  color: red;
+}
+
+.important{
+  text-decoration: none;
+}
+
+ul.nobullets {
+  list-style: none;
+  text-align: center;
+}
+
+h1{
+   text-align: center;
+ }
+
+ h1.flashy:hover{
+   color: lightpink;
+ }
