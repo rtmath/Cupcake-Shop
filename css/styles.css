@@ -30,3 +30,10 @@ h1{
  h1.flashy:hover{
    color: lightpink;
  }
+
+strong.best {
+  font-weight: bolder;
+  font-family: cursive;
+  color: crimson;
+  font-size: 16pt;  
+}
